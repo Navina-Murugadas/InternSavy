@@ -1,7 +1,7 @@
 # PREDICTION OF GRADUATE ADMISSIONS FROM AN INDIAN PERSPECTIVE USING CLASSIFICATION TECHNIQUE
 This GitHub project is dedicated to the development and implementation of a machine learning model for predicting graduate admissions for Indian students. The aim of this project is to provide aspiring students and educational institutions in India with a tool to estimate the probability of admission into postgraduate programs based on certain input parameters.
 
-# Motivation
+# Motivation:
 Graduate admissions are a crucial aspect of a student's academic journey. This project was initiated to address the need for a transparent, data-driven solution to help students and institutions in India make more informed decisions. By leveraging classification techniques in machine learning, we aim to provide a predictive tool that considers various factors that influence the admission process.
 
 # Machine Learning Algorithm used:
