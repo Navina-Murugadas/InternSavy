@@ -17,9 +17,8 @@ https://github.com/Navina-Murugadas/InternSavy/tree/main/Customer_Segmentation_A
 https://github.com/Navina-Murugadas/InternSavy/tree/main/CricketPlayer_Performance_Prediction
 
 ## Notable Achievements
-hroughout my internship journey, I've attained remarkable milestones, including:
-
-Developing and deploying predictive models through Streamlit for both Fake News Detection and Movie Recommendations.
+Throughout my internship journey, I've attained remarkable milestones, including:
+Developing and deploying predictive models through Streamlit for Prediction of Graduate Admissions from an Indian Perspective (Using Classification technique).
 
 ## Collaborative Excellence
 I've had the privilege of working closely with an exceptional team at InternSavy. Their guidance and support have been instrumental in the success of these projects. Our collaborative efforts not only enriched my learning experience but also elevated the overall quality of our work.
