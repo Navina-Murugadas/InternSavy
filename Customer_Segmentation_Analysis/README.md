@@ -1,5 +1,5 @@
 # CUSTOMER SEGMENTATION ANALYSIS USING PYTHON
-This GitHub project aims to provide a comprehensive guide and implementation of customer segmentation using K-Means clustering. Customer segmentation is a vital marketing strategy that allows businesses to divide their customer base into distinct groups based on their characteristics and behaviors. K-Means clustering is a popular unsupervised machine learning algorithm used for this purpose.
+This project aims to provide a comprehensive guide and implementation of customer segmentation using K-Means clustering. Customer segmentation is a vital marketing strategy that allows businesses to divide their customer base into distinct groups based on their characteristics and behaviors. K-Means clustering is a popular unsupervised machine learning algorithm used for this purpose.
 
 # Machine Learning Algorithm used:
 K-Means Clustering
