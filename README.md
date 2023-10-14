@@ -8,13 +8,13 @@ Over the past month, I've had the extraordinary opportunity to contribute to mul
 Within this GitHub repository, you'll find a treasure trove of resources, including comprehensive documentation, code, and more, all related to the projects I've been diligently working on. Here's a concise overview of the primary components:
 
 ### Task 1: PREDICTION OF GRADUATE ADMISSIONS FROM AN INDIAN PERSPECTIVE (USING CLASSIFICATION TECHNIQUE)
-
+https://github.com/Navina-Murugadas/InternSavy/tree/main/Graduate_Admissions
 
 ### Task 2: CUSTOMER SEGMENTATION ANALYSIS WITH PYTHON
-
+https://github.com/Navina-Murugadas/InternSavy/tree/main/Customer_Segmentation_Analysis
 
 ### Task 3: CRICKET PLAYER PERFORMANCE PREDICTION USING MACHINE LEARNING
-
+https://github.com/Navina-Murugadas/InternSavy/tree/main/CricketPlayer_Performance_Prediction
 
 ## Notable Achievements
 hroughout my internship journey, I've attained remarkable milestones, including:
